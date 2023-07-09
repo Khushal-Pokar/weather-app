@@ -52,6 +52,7 @@
 }
 
 .section__inputs>input {
+  width: 50%;
   border: 0.8px solid white;
   border-radius: 0.4rem;
   background-color: transparent;
